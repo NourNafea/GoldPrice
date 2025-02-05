@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+        "GoldApiKey": "your-gold-api-key-here",
+        "SendGrid:ApiKey": "your-sendgrid-api-key-here",
+        "SendGrid:FromEmail": "your-from-email@domain.com",
+        "SendGrid:FromName": "Your Name",
+        "SendGrid:ToEmail": "recipient@domain.com"
+    }
+} 
